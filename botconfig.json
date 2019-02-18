@@ -1,0 +1,18 @@
+{
+  "token"  : "Nope.",
+  "prefix" : "?",
+  "twitch": {
+    "apiID": "azufpi0bz5e0x0742a31rxzmasaib2",
+    "annouceChannel": "527850874513522688",
+    "channelName": "bcsdrp"},
+  "logchannel" : "520033179592163330",
+  "ruleschannel" : "527212246192095252",
+  "errorRole" : "485864639624773653",
+  "visitorRole" : "485864639624773653",
+  "supervisorRole" : "455463759352299551",
+  "stateRole" : "527983841286029335",
+  "leoRole" : "527989830584631316",
+  "sheriffRole" : "455463758068973579",
+  "statusChannelMain" : "547082669821788160",
+  "statusChannelDev" : "547083215962243082"
+}
